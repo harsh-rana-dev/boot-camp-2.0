@@ -1,7 +1,6 @@
 # DE/DataOps Interview — General Conceptual Questions 
 
-10 more non-tool-specific questions, same category as the earlier 20 —
-tests judgment and DE/DataOps fundamentals, not memorized tool syntax.
+10 non-tool-specific questions
 
 1. **What's the difference between a data engineer and a data analyst, in your own words?**
 
